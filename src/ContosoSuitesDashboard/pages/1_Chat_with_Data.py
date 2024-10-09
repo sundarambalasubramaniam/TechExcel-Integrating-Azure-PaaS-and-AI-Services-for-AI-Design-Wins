@@ -47,7 +47,7 @@ def create_chat_completion(messages):
         }
     )
 
-
+    #
     # return client.chat.completions.create(
     #    model=aoai_deployment_name,
     #    messages=[
